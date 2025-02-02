@@ -1,0 +1,4 @@
+"AadClientId": "42fa317d-c89b-49c9-a148-5b79b3bfea16",
+  "AadSecret": "dL18Q~-~ug1TNU2.oglmYpgdx4IQDke6.C._Qa2v",
+  "AadTenantDomain": "365cloud.com.au",
+  "AadTenantId": "e171a2d6-5bf5-485a-8209-3378c888b679",

@@ -1,0 +1,4 @@
+"AadClientId": "df0847d4-8621-4749-b0c2-f24673a5a567",
+  "AadSecret": "QkC8Q~gPnOnrEx2P2iXBTDDWRNxKq54MPA-VPdcf",
+  "AadTenantDomain": "cloudlounge.com.au",
+  "AadTenantId": "c7dc93d6-a596-4a1e-a96c-0e46a6216f97",
